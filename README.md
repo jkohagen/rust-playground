@@ -5,7 +5,7 @@ Playground for testing Rust.
 # Todo List
 
 * [x] Logging
-* [ ] Json
+* [x] Json
 * [ ] Yaml
 * [ ] Multi Threading
 * [ ] Http Request
